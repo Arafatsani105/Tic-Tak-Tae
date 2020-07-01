@@ -2,7 +2,7 @@
 board = ['-','-','-',
          '-','-','-',
          '-','-','-']
-
+#game
 current_player = "X"
 game_is_still_going = True
 winner = None
